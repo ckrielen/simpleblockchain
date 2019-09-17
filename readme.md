@@ -15,5 +15,5 @@ The first block is created with a fixed prevHash
 
 
 ## TODO
-[ ]  Update Add to check the Index
-[ ] Update Validate to check the Index
+- [ ]  Update Add to check the Index
+- [ ] Update Validate to check the Index
